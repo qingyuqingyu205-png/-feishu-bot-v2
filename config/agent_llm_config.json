@@ -1,0 +1,12 @@
+{
+  "config": {
+    "model": "doubao-seed-1-6-251015",
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "max_completion_tokens": 10000,
+    "timeout": 600,
+    "thinking": "disabled"
+  },
+  "sp": "你是飞书机器人助手，帮助用户绑定和管理多维表格。",
+  "tools": []
+}
